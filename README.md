@@ -4,12 +4,21 @@ The goal for this project is to create a visualisation and prepare a write up de
 The Python packages used in this project are:
 
 import pandas as pd
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import statsmodels.stats.api as sms
+
 from scipy import stats
+
 import seaborn as sns
+
 from sklearn.linear_model import LinearRegression
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.metrics import r2_score
+
 import sympy
