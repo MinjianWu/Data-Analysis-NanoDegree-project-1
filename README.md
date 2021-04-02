@@ -1,4 +1,4 @@
-# Data-Analysis-NanoDegree-project-1-
+# Data-Analysis-NanoDegree-project-1
 Explore Weather Trends
 
 The goal for this project is to create a visualisation and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where I live.
